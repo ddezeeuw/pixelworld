@@ -1,0 +1,30 @@
+{
+  "name": "Fractals",
+  "version": "1.0.0",
+  "description": "Combining all your automated Media Processes",
+  "main": "grunt.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddezeeuw/pixelworld"
+  },
+  "keywords": [
+    "kodi",
+    "xbmc",
+    "web"
+  ],
+  "author": "D. de Zeeuw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddezeeuw/pixelworld/issues"
+  },
+  "homepage": "https://github.com/ddezeeuw/pixelworld",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-sass": "^0.9.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "matchdep": "^0.3.0"
+  }
+}
